@@ -1,0 +1,5 @@
+{
+  "name": "AI Manga Creator",
+  "description": "Generate full manga stories from a single prompt with AI-powered storyboarding, image generation, and dialogue overlay.",
+  "requestFramePermissions": []
+}
